@@ -1,2 +1,2 @@
 # DevOps01_Courese
-## Homework Git Internals
+## [Homework Assignment: Git Mastery](https://github.com/devops01ua/git_internal)
